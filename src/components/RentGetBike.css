@@ -1,0 +1,33 @@
+.w1{
+    background: black;
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    min-height: 100vh;
+    width: 100vw;
+    padding-top: 2rem;
+    margin-top: 0;
+}
+.h1{
+    font-size: larger;
+    text-align: center;
+    background-color: #4caf50;
+    color: white !important;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    width: 100vw;
+    margin-bottom: 0;
+    padding: 1.5rem;
+}
+.wrapper{
+    /* display: inline-flex;
+    flex-direction: column;
+    flex-wrap: wrap; */
+    min-width: 25%;
+    margin: 1rem;
+    text-align: center;
+
+    
+}

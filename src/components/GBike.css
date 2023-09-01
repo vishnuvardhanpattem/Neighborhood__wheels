@@ -1,0 +1,44 @@
+
+.container{
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+    min-width: 98vw;
+    min-height: 100vh;
+    /* background: gold; */
+    
+}
+
+.h12{
+    position: sticky;
+    top:0;
+    text-align: center;
+    padding: 1.5rem;
+    background-color: black;
+    min-width: 100vw;
+    /* height: 50px; */
+    color: white;
+    z-index: 1;
+}
+
+
+@media (max-width:50rem) {
+    .container{
+        display: inline-flex;
+        align-items: center;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+
+    }
+}
+
+@media (min-width:50.1rem){
+    .container{
+        display: inline-flex;
+        align-items: center;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+
+    }
+}

@@ -1,0 +1,105 @@
+/* .rgbike-container{
+    display: flex ;
+    align-items: center;
+    flex-wrap: wrap ;
+    flex-flow: wrap ;
+    justify-content: space-evenly ;
+    box-sizing: border-box;  
+    background: radial-gradient(rgb(0, 0, 0),rgba(85, 46, 46, 0.738),rgba(0,0,0,0.2));  
+} 
+
+
+
+.rgbikedetails-container{
+    color: white;
+    font-weight: bold;
+    border-top-left-radius:25px;
+    min-width:25%;
+    height: fit-content;
+    padding-bottom: 1rem;
+    display: flex ;
+    flex-wrap: wrap ;
+    flex-flow: wrap ;
+    flex-basis: calc(25% - 2rem);
+    flex-direction: column ;
+    box-shadow: 2px 2px 4px 4px gray;  
+    align-items: center;
+    line-height: 1.5;
+    margin: 1rem;
+    justify-content: space-between;
+}
+
+.rgbikedetails-img{
+    width: 100%;
+    height: 250px;
+    border-bottom: 2px solid black;
+    margin-bottom: 0.5rem;
+    box-shadow: 4px 1px 4px 4px solid gray;
+    border-top-left-radius:25px;
+
+}
+
+
+
+
+
+.rgbikedetails-btn {
+    margin-top: 1rem;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+} */
+ 
+.rgbike-container{
+    color: white;
+    font-weight: bold;
+    /* display: flex ;
+    align-items: center; */
+    line-height: 1.2;
+    text-align: center;
+    margin: 1rem;
+    padding-bottom: 2rem;
+    /* border:10px solid rgb(166, 57, 113); */
+} 
+
+
+.rgbikedetails-img{
+    width: 22rem;
+    height: 220px;
+    border-bottom: 5px solid red;
+    margin-bottom: 0;
+}
+
+.rgbikedetails-btn {
+    margin-top: 1.5rem;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 0 auto;
+    font-size: 1.2rem;
+    font-weight: 500;
+
+}
+
+.rgbike-con{
+    height: fit-content;
+    border: 5px solid white;
+    padding-bottom: 1rem;
+    height: 230px;
+    overflow: auto;
+    width:100%;
+    font-size: medium;
+}
+
+.rgbike-conP{
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+    font-size:xx-small;
+}
