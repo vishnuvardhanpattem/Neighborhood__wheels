@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Neighborhood__wheels/static/css/main.15d90d02.css",
-    "main.js": "/Neighborhood__wheels/static/js/main.36c65588.js",
-    "static/media/profile-background.jpg": "/Neighborhood__wheels/static/media/profile-background.cae744465ce9c1dcfe4b.jpg",
-    "static/media/image1.jpg": "/Neighborhood__wheels/static/media/image1.5f29552296546d5e96e7.jpg",
-    "static/media/royal-enfield.webp": "/Neighborhood__wheels/static/media/royal-enfield.809e1cf6c65071767024.webp",
-    "static/media/slick.svg": "/Neighborhood__wheels/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/Neighborhood__wheels/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/Neighborhood__wheels/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/Neighborhood__wheels/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/Neighborhood__wheels/index.html",
-    "main.15d90d02.css.map": "/Neighborhood__wheels/static/css/main.15d90d02.css.map",
-    "main.36c65588.js.map": "/Neighborhood__wheels/static/js/main.36c65588.js.map"
+    "main.css": "/neighborhood_wheels/static/css/main.1b0e5b50.css",
+    "main.js": "/neighborhood_wheels/static/js/main.34a5351a.js",
+    "static/media/profile-background.jpg": "/neighborhood_wheels/static/media/profile-background.cae744465ce9c1dcfe4b.jpg",
+    "static/media/image1.jpg": "/neighborhood_wheels/static/media/image1.5f29552296546d5e96e7.jpg",
+    "static/media/royal-enfield.webp": "/neighborhood_wheels/static/media/royal-enfield.809e1cf6c65071767024.webp",
+    "static/media/slick.svg": "/neighborhood_wheels/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/neighborhood_wheels/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/neighborhood_wheels/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/neighborhood_wheels/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/neighborhood_wheels/index.html",
+    "main.1b0e5b50.css.map": "/neighborhood_wheels/static/css/main.1b0e5b50.css.map",
+    "main.34a5351a.js.map": "/neighborhood_wheels/static/js/main.34a5351a.js.map"
   },
   "entrypoints": [
-    "static/css/main.15d90d02.css",
-    "static/js/main.36c65588.js"
+    "static/css/main.1b0e5b50.css",
+    "static/js/main.34a5351a.js"
   ]
 }
